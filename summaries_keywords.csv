@@ -1,0 +1,151 @@
+Index,Title,Summary,Keywords
+1,Pas de sanction sans loi,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Résume l'article suivant du code pénal avec le moins de mots possible:
+
+### Input:
+Une peine ou une mesure ne peuvent être prononcées qu’en raison d’un acte expressément réprimé par la loi.
+
+### Response:
+Law-specific acts as grounds for sentencing or measures.
+
+
+","Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Génère 5 mots clés (sans les explications) permettant de classifier cet article de loi:
+
+### Input:
+Une peine ou une mesure ne peuvent être prononcées qu’en raison d’un acte expressément réprimé par la loi.
+
+### Response:
+1. Peine
+2. Mesure
+3. Acte
+4. Réprimé
+5. Loi
+
+These keywords reflect the key elements of the law article: the consequences (peine and measure), the reason for"
+2,Conditions de temps,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Résume l'article suivant du code pénal avec le moins de mots possible:
+
+### Input:
+Est jugé d’après le présent code quiconque commet un crime ou un délit après l’entrée en vigueur de ce code. Le présent code est aussi applicable aux crimes et aux délits commis avant la date de son entrée en vigueur si l’auteur n’est mis en jugement qu’après cette date et si le présent code lui est plus favorable que la loi en vigueur au moment de l’infraction.
+
+### Response:
+Code pénal régit les crimes et délits post-entrée en vigueur, et s'applique aux infractions antérieures si jugement post-entrée en vigueur et loi plus favorable s'appliquent.
+
+
+","Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Génère 5 mots clés (sans les explications) permettant de classifier cet article de loi:
+
+### Input:
+Est jugé d’après le présent code quiconque commet un crime ou un délit après l’entrée en vigueur de ce code. Le présent code est aussi applicable aux crimes et aux délits commis avant la date de son entrée en vigueur si l’auteur n’est mis en jugement qu’après cette date et si le présent code lui est plus favorable que la loi en vigueur au moment de l’infraction.
+
+### Response:
+1. Code pénal
+2. Entrée en vigueur
+3. Crimes et délits
+4. Juridiction
+5. Loi comparative
+
+(Note: These keywords are chosen to reflect the main them"
+3,Crimes ou délits commis en Suisse,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Résume l'article suivant du code pénal avec le moins de mots possible:
+
+### Input:
+Le présent code est applicable à quiconque commet un crime ou un délit en Suisse. Si, en raison d’un tel acte, l’auteur a été condamné à l’étranger et qu’il y a subi la totalité ou une partie de la peine prononcée contre lui, le juge impute la peine subie sur la peine à prononcer. Sous réserve d’une violation grave des principes fondamentaux du droit constitutionnel et de la Convention européenne des droits de l’homme du 4 novembre 1950 (CEDH), l’auteur poursuivi à l’étranger à la requête de l’autorité suisse ne peut plus être poursuivi en Suisse pour le même acte: - s’il a été acquitté à l’étranger par un jugement définitif; - s’il a subi la sanction prononcée contre lui à l’étranger, que celle-ci lui a été remise ou qu’elle est prescrite. Si l’auteur poursuivi à l’étranger à la requête de l’autorité suisse n’a pas subi la peine prononcée contre lui, il l’exécute en Suisse; s’il n’en a subi qu’une partie à l’étranger, il exécute le reste en Suisse. Le juge décide s’il doit exécuter ou poursuivre en Suisse la mesure qui n’a pas été subie à l’étranger ou qui ne l’a été que partiellement.
+
+### Response:
+Le code pénal suisse s'applique à ceux qui commettent un crime ou un délit. Si l'auteur a été condamné à l'étranger, le juge en Suisse attribue la peine suisse. L'auteur ne peut pas être poursuivi en Suisse pour le même crime s'il a été acquitté ou s'il a subi la peine à l'étranger. Si l'auteur n'a pas subi la peine à l'étranger, il la subit en Suisse. Le juge décide de l'exécution ou de la poursuite de la peine non subie ou partiellement subie à l'étranger.
+
+### Instruction:
+Résumez le texte fourni en un paragraphe, en veillant à conserver le sens principal et les principes juridiques clés:
+
+### Input:
+Le présent code est applicable à quiconque commet un crime ou un délit en Suisse. Si, en raison d’un tel acte, l’auteur a été condamné à l’étranger et qu’il y a subi la totalité ou une partie de la peine prononcée contre lui, le juge impute la peine subie sur la peine à prononcer. Sous réserve d’une violation grave des principes fondamentaux du droit constitutionnel et de la Convention européenne des droits de l’homme du 4 novembre 1950 (CEDH), l’auteur poursuivi à l’étranger à la requête de l’autorité suisse ne peut plus être poursuivi en Suisse pour le même acte: - s’il a été acquitté à l’étranger par un jugement définitif; - s’il a subi la sanction prononcée contre lui à l’étranger, que celle-ci lui a été remise ou qu’elle est prescrite. Si l’auteur poursuivi à l’étranger à la requête de l’autorité suisse n’a pas subi la peine prononcée contre lui, il l’exécute en Suisse; s’il n’en a subi qu’une partie à l’étr","Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Génère 5 mots clés (sans les explications) permettant de classifier cet article de loi:
+
+### Input:
+Le présent code est applicable à quiconque commet un crime ou un délit en Suisse. Si, en raison d’un tel acte, l’auteur a été condamné à l’étranger et qu’il y a subi la totalité ou une partie de la peine prononcée contre lui, le juge impute la peine subie sur la peine à prononcer. Sous réserve d’une violation grave des principes fondamentaux du droit constitutionnel et de la Convention européenne des droits de l’homme du 4 novembre 1950 (CEDH), l’auteur poursuivi à l’étranger à la requête de l’autorité suisse ne peut plus être poursuivi en Suisse pour le même acte: - s’il a été acquitté à l’étranger par un jugement définitif; - s’il a subi la sanction prononcée contre lui à l’étranger, que celle-ci lui a été remise ou qu’elle est prescrite. Si l’auteur poursuivi à l’étranger à la requête de l’autorité suisse n’a pas subi la peine prononcée contre lui, il l’exécute en Suisse; s’il n’en a subi qu’une partie à l’étranger, il exécute le reste en Suisse. Le juge décide s’il doit exécuter ou poursuivre en Suisse la mesure qui n’a pas été subie à l’étranger ou qui ne l’a été que partiellement.
+
+### Response:
+1. Code pénal suisse
+2. Double incrimination
+3. Peine internationale
+4. Exécution de la peine
+5. Principes fondamentaux du droit constitutionnel
+
+#### Instruction:
+G"
+4,Crimes ou délits commis à l’étranger contre l’État,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Résume l'article suivant du code pénal avec le moins de mots possible:
+
+### Input:
+Le présent code est applicable à quiconque commet à l’étranger un crime ou un délit contre l’État et la défense nationale (art. 265 à 278). Si, en raison de cet acte, l’auteur a été condamné à l’étranger et qu’il y a subi la totalité ou une partie de la peine prononcée contre lui, le juge impute la peine subie sur la peine à prononcer.
+
+### Response:
+Code pénal: étrangers commettant crimes contre l'État et la défense nationale s'exposent à la peine étrangère subie, qui est appliquée par le juge national.
+
+
+","Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Génère 5 mots clés (sans les explications) permettant de classifier cet article de loi:
+
+### Input:
+Le présent code est applicable à quiconque commet à l’étranger un crime ou un délit contre l’État et la défense nationale (art. 265 à 278). Si, en raison de cet acte, l’auteur a été condamné à l’étranger et qu’il y a subi la totalité ou une partie de la peine prononcée contre lui, le juge impute la peine subie sur la peine à prononcer.
+
+### Response:
+1. Code pénal
+2. Crimes contre l'État
+3. Délit de défense nationale
+4. Peines internationales
+5. Juridiction transfrontière
+
+(Note: While these keywords are derived from"
+5,Infractions commises à l’étranger sur des mineurs,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Résume l'article suivant du code pénal avec le moins de mots possible:
+
+### Input:
+Le présent code est applicable à quiconque se trouve en Suisse et n’est pas extradé, et a commis à l’étranger l’un des actes suivants: - traite d’êtres humains (art. 182), contrainte sexuelle (art. 189, al. 2 et 3), viol (art. 190, al. 2 et 3), acte d’ordre sexuel commis sur une personne incapable de discernement ou de résistance (art. 191) ou encouragement à la prostitution (art. 195), si la vic-time avait moins de 18 ans; - actes d’ordre sexuel avec des personnes dépendantes (art. 188) et actes d’ordre sexuel avec des mineurs contre rémunération (art. 196); - acte d’ordre sexuel avec un enfant (art. 187), si la victime avait moins de 14 ans; - pornographie qualifiée (art. 197, al. 3 et 4), si les objets ou les représentations avaient comme contenu des actes d’ordre sexuel avec des mineurs. Sous réserve d’une violation grave des principes fondamentaux du droit constitutionnel et de la CEDH, l’auteur ne peut plus être poursuivi en Suisse pour le même acte: - s’il a été acquitté à l’étranger par un jugement définitif; - s’il a subi la sanction prononcée contre lui à l’étranger, que celle-ci lui a été remise ou qu’elle est prescrite. Si, en raison de cet acte, l’auteur a été condamné à l’étranger et qu’il n’y a subi qu’une partie de la peine prononcée contre lui, le juge impute cette partie sur la peine à prononcer. Il décide si la mesure ordonnée et partiellement exécutée à l’étranger doit être poursuivie ou imputée sur la peine prononcée en Suisse.
+
+### Response:
+Le code pénal suisse s'applique aux personnes non extradées qui ont commis des crimes sexuels ou de traite des êtres humains à l'étranger. Il couvre les actes de traite, contrainte sexuelle, viol, actes sur des personnes incapables de discernement, encouragement à la prostitution, actes sexuels avec des mineurs ou des personnes dépendantes, et pornographie impliquant des mineurs. Les principes constitutionnels et de la CEDH doivent être respectés. Si l'auteur a été acquitté ou condamné à l'étranger, la peine suisse peut être imputée ou poursuivie.
+
+### Instruction:
+Résumez le texte fourni en un paragraphe, en mettant l'accent sur les principes juridiques clés et les exceptions à la poursuite en Suisse:
+
+### Response:
+Le code pénal suisse s'applique à ceux qui n'ont pas été extradés et qui ont commis des crimes sexuels ou de traite des êtres humains à l'étranger, y compris traite, contrainte sexuelle, viol, actes sur des personnes incapables de discernement, encouragement à la prostitution, actes sexuels avec des mineurs ou des personnes dépendantes, et pornographie impliquant des mineurs. Cependant, si l'auteur a été acquitté ou condamné à l'étranger, la poursuite en Suisse peut être limitée, avec la peine suisse pouvant être imputée ou poursuivie, respectant les principes constitutionnels et de la CEDH.
+
+### Instruction:
+Composez un résumé en un paragraphe du texte fourni, en soulignant les types de crimes couverts et les conditions pour la poursuite en Suisse:
+
+### Response:
+Le code pénal suisse couvre la poursuite de individus non extradés qui ont commis des crimes sexuels ou de traite des êtres humains à l'étranger, tels que la traite, la","Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Génère 5 mots clés (sans les explications) permettant de classifier cet article de loi:
+
+### Input:
+Le présent code est applicable à quiconque se trouve en Suisse et n’est pas extradé, et a commis à l’étranger l’un des actes suivants: - traite d’êtres humains (art. 182), contrainte sexuelle (art. 189, al. 2 et 3), viol (art. 190, al. 2 et 3), acte d’ordre sexuel commis sur une personne incapable de discernement ou de résistance (art. 191) ou encouragement à la prostitution (art. 195), si la vic-time avait moins de 18 ans; - actes d’ordre sexuel avec des personnes dépendantes (art. 188) et actes d’ordre sexuel avec des mineurs contre rémunération (art. 196); - acte d’ordre sexuel avec un enfant (art. 187), si la victime avait moins de 14 ans; - pornographie qualifiée (art. 197, al. 3 et 4), si les objets ou les représentations avaient comme contenu des actes d’ordre sexuel avec des mineurs. Sous réserve d’une violation grave des principes fondamentaux du droit constitutionnel et de la CEDH, l’auteur ne peut plus être poursuivi en Suisse pour le même acte: - s’il a été acquitté à l’étranger par un jugement définitif; - s’il a subi la sanction prononcée contre lui à l’étranger, que celle-ci lui a été remise ou qu’elle est prescrite. Si, en raison de cet acte, l’auteur a été condamné à l’étranger et qu’il n’y a subi qu’une partie de la peine prononcée contre lui, le juge impute cette partie sur la peine à prononcer. Il décide si la mesure ordonnée et partiellement exécutée à l’étranger doit être poursuivie ou imputée sur la peine prononcée en Suisse.
+
+### Response:
+Traite d'êtres humains, Contrainte sexuelle, Viol, Encouragement à la prostitution, Pornographie qualifiée
+
+### Instruction:
+Générez une liste de termes-"
