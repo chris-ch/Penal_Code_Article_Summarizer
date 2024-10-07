@@ -1,14 +1,10 @@
 {
     "name": "Python 3",
-    // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
     "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
     "features": {
       "ghcr.io/deep-space-cartel/devcontainers-features/starship:latest": {
           "version": "latest"
       }
-      //"ghcr.io/devcontainers-community/features/direnv": {
-      //  "version": "1.0.0"
-      //}
     },
     "customizations": {
       "codespaces": {
@@ -27,18 +23,6 @@
       }
     },
     "updateContentCommand": "sudo apt update && sudo apt upgrade -y && sudo apt install direnv && [ -f packages.txt ] && sudo xargs apt install -y <packages.txt; pipx ensurepath; pipx install poetry; poetry update; echo '✅ Packages installed and Requirements met'",
-    "postStartCommand": "echo 'eval \"$(starship init bash)\"\neval \"$(direnv hook bash)\"' >> ~/.bashrc",
-    "postAttachCommand": {
-      "server": "poetry run streamlit run scripts/bot.py --server.enableCORS false --server.enableXsrfProtection false --browser.gatherUsageStats false --server.runOnSave true --server.allowRunOnSave true"
-    },
-    "portsAttributes": {
-      "8501": {
-        "label": "Application",
-        "onAutoForward": "openPreview"
-      }
-    },
-    "forwardPorts": [
-      8501
-    ]
+    "postStartCommand": "echo 'eval \"$(starship init bash)\"\neval \"$(direnv hook bash)\"' >> ~/.bashrc"
   }
   
