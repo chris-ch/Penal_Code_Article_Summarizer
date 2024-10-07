@@ -16,9 +16,10 @@
       "vscode": {
         "settings": {},
         "extensions": [
-          "ms-python.python",
-          "ms-python.vscode-pylance",
-          "zeshuaro.vscode-python-poetry"
+            "ms-python.python",
+            "ms-python.vscode-pylance",
+            "zeshuaro.vscode-python-poetry",
+            "ms-toolsai.jupyter"
         ]
       }
     },
